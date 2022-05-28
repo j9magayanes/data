@@ -1,0 +1,6738 @@
+[
+ {
+   "countryName": "Serbia",
+   "iso": "SRB",
+   "latitude": "45,94361983740",
+   "longitude": "20,29304209430",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Montenegro",
+   "iso": "MNE",
+   "latitude": "42,24021717240",
+   "longitude": "19,23186541320",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Montenegro",
+   "iso": "MNE",
+   "latitude": "41,92225648830",
+   "longitude": "19,30063986800",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Portugal",
+   "iso": "PRT",
+   "latitude": "38,82538617160",
+   "longitude": "-8,94502189054",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Bulgaria",
+   "iso": "BGR",
+   "latitude": "43,67748248220",
+   "longitude": "28,55334797410",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Bulgaria",
+   "iso": "BGR",
+   "latitude": "43,68464398800",
+   "longitude": "25,71342432100",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Ireland",
+   "iso": "IRL",
+   "latitude": "53,25328253760",
+   "longitude": "-8,02113589186",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "54,70310846830",
+   "longitude": "17,33748159260",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "54,34709678970",
+   "longitude": "18,94970799130",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "53,74844345650",
+   "longitude": "19,53224309370",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "52,52489474330",
+   "longitude": "19,23160898520",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "52,07834465930",
+   "longitude": "16,37827964200",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "52,58588438290",
+   "longitude": "14,82532860900",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "50,92944464660",
+   "longitude": "17,42412866670",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "49,24866774600",
+   "longitude": "19,96346626470",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "49,55891325280",
+   "longitude": "20,15186263780",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "51,55325992990",
+   "longitude": "22,98341807370",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "52,10296170930",
+   "longitude": "20,86695198720",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "53,22633016130",
+   "longitude": "23,41387291730",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "53,54980506250",
+   "longitude": "22,79983875540",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "54,12679930790",
+   "longitude": "22,14765718650",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "52,31768500160",
+   "longitude": "20,58848577990",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "53,80377263030",
+   "longitude": "17,98002813310",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "51,79606108980",
+   "longitude": "18,67611911120",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "51,34294967150",
+   "longitude": "23,74368985710",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "50,47454856950",
+   "longitude": "20,57877393260",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "53,64847481980",
+   "longitude": "21,50709578950",
+   "happinessRank": "Very High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "53,91996231540",
+   "longitude": "23,20984275230",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "52,91169987040",
+   "longitude": "23,25707448530",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Netherlands",
+   "iso": "NLD",
+   "latitude": "53,27235795280",
+   "longitude": "5,61896010429",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Netherlands",
+   "iso": "NLD",
+   "latitude": "53,40075106060",
+   "longitude": "5,31150773228",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Netherlands",
+   "iso": "NLD",
+   "latitude": "51,70205548250",
+   "longitude": "4,50899898213",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Netherlands",
+   "iso": "NLD",
+   "latitude": "51,57692491750",
+   "longitude": "3,97192697272",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Netherlands",
+   "iso": "NLD",
+   "latitude": "51,40522705770",
+   "longitude": "3,77316805895",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Netherlands",
+   "iso": "NLD",
+   "latitude": "52,53324630080",
+   "longitude": "5,22037848759",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Netherlands",
+   "iso": "NLD",
+   "latitude": "52,40808901150",
+   "longitude": "5,20837591508",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Netherlands",
+   "iso": "NLD",
+   "latitude": "51,41967132780",
+   "longitude": "5,89345577727",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Netherlands",
+   "iso": "NLD",
+   "latitude": "51,34653204500",
+   "longitude": "5,81776611155",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Finland",
+   "iso": "FIN",
+   "latitude": "63,21628317530",
+   "longitude": "21,16492324680",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Finland",
+   "iso": "FIN",
+   "latitude": "68,69509539450",
+   "longitude": "23,95638173900",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Finland",
+   "iso": "FIN",
+   "latitude": "68,16136729960",
+   "longitude": "28,27926425860",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Finland",
+   "iso": "FIN",
+   "latitude": "68,53716103040",
+   "longitude": "25,84875778200",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Finland",
+   "iso": "FIN",
+   "latitude": "69,01896676740",
+   "longitude": "21,48016344780",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Russia (European)",
+   "iso": "RUS",
+   "latitude": "42,32707093340",
+   "longitude": "48,07254790320",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "42,52104741850",
+   "longitude": "-8,89827945021",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "43,18219911430",
+   "longitude": "-4,76484540811",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "42,90959268330",
+   "longitude": "-4,66789184400",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "42,79303232580",
+   "longitude": "-3,80023821230",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "40,50746333810",
+   "longitude": "-6,07675770448",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "40,48216364730",
+   "longitude": "-4,25895885251",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "40,60962840880",
+   "longitude": "-3,42968967606",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "38,82455675100",
+   "longitude": "-3,91692986867",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "40,08433399580",
+   "longitude": "-5,02613763080",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "39,90195905260",
+   "longitude": "-6,68524799064",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "39,79645757930",
+   "longitude": "-5,94641598625",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "39,13938878890",
+   "longitude": "-5,49665324456",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "39,31170616720",
+   "longitude": "-6,83480362790",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "39,05376281310",
+   "longitude": "-6,89677360588",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "42,00397285000",
+   "longitude": "0,82245625984",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "41,05944067050",
+   "longitude": "-0,25181318214",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "41,72065524050",
+   "longitude": "-1,71201824621",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "40,99185315300",
+   "longitude": "-1,54324690751",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "42,24900177880",
+   "longitude": "3,10209004911",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "40,69545748670",
+   "longitude": "0,70977386510",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "39,31774591900",
+   "longitude": "-0,30230517157",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "37,72265169280",
+   "longitude": "-0,78429455446",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "37,47271054420",
+   "longitude": "-3,11863676980",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "37,07307081540",
+   "longitude": "-6,30832235746",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "39,80055659590",
+   "longitude": "3,09763710195",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "42,14832686600",
+   "longitude": "-5,19024775306",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "43,38527665570",
+   "longitude": "-4,39680029531",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "40,87614867950",
+   "longitude": "-4,07004789521",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "42,40511497230",
+   "longitude": "-1,56226742687",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "28,74952373320",
+   "longitude": "-13,82173651590",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "28,44379526690",
+   "longitude": "-16,48484939210",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "28,47182486590",
+   "longitude": "-16,35202506500",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "27,81256349360",
+   "longitude": "-15,44303402780",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "28,77346639310",
+   "longitude": "-17,81508362550",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "28,02856702970",
+   "longitude": "-16,69315475370",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "51,52329808770",
+   "longitude": "23,80689111230",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "49,70898173230",
+   "longitude": "31,51932899680",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "47,09737041180",
+   "longitude": "38,03075002340",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "46,92236147140",
+   "longitude": "37,33542228820",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "46,66598445510",
+   "longitude": "30,68707550100",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "46,37975121350",
+   "longitude": "30,17259930340",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "51,83718462270",
+   "longitude": "25,16213701720",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "51,63715488690",
+   "longitude": "27,13084447380",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "51,54993246210",
+   "longitude": "25,38094272590",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "49,58891437730",
+   "longitude": "36,50346115830",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "45,42899561850",
+   "longitude": "32,56466180690",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "46,50823282180",
+   "longitude": "31,78081683820",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "55,25205504200",
+   "longitude": "-5,11698999993",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "51,52673582360",
+   "longitude": "0,67918878385",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "60,66978413090",
+   "longitude": "-1,02517236699",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "50,81273573500",
+   "longitude": "-0,95004687090",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "58,89902030070",
+   "longitude": "-2,68438267316",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "60,77686643620",
+   "longitude": "-0,86117758801",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "52,04230292570",
+   "longitude": "1,34691706798",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "53,31722391590",
+   "longitude": "-3,18623536137",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "56,86305764950",
+   "longitude": "-4,24822504823",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "54,26074330820",
+   "longitude": "-5,83197141493",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "59,26821571460",
+   "longitude": "-2,51280103281",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "59,23682353820",
+   "longitude": "-2,73461257814",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "59,53803940080",
+   "longitude": "-1,62529601797",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "60,60195700650",
+   "longitude": "-0,86838683382",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "58,28331369460",
+   "longitude": "-7,60186619535",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "60,13685650710",
+   "longitude": "-2,07471631465",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "51,73060574150",
+   "longitude": "-5,47862779187",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "51,88176663940",
+   "longitude": "1,23996875500",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "60,81030270120",
+   "longitude": "-0,86845232284",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "60,72426728010",
+   "longitude": "-0,87460679564",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "58,85795508600",
+   "longitude": "-3,31138215075",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "53,60605211620",
+   "longitude": "-0,13855855623",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "55,84784903650",
+   "longitude": "-6,32525237138",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "57,31985597250",
+   "longitude": "-4,29779994030",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "59,10616545640",
+   "longitude": "-3,35243792998",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "51,40774889250",
+   "longitude": "0,65786375375",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "51,65401225640",
+   "longitude": "0,89711855156",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "56,80516703370",
+   "longitude": "-7,63882402080",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "52,28204928830",
+   "longitude": "1,61690043357",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "57,52388340290",
+   "longitude": "-7,63557420422",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "57,08570144950",
+   "longitude": "-4,27147520132",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "60,25738188990",
+   "longitude": "-1,24421331544",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "59,99866743950",
+   "longitude": "-1,17600744166",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "57,08532770310",
+   "longitude": "-2,94285895866",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "52,97135388210",
+   "longitude": "0,81574355242",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "60,54904281370",
+   "longitude": "-1,43513019680",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "59,12035945710",
+   "longitude": "-5,85631802144",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "59,37472052100",
+   "longitude": "-2,41250109081",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "54,37429971520",
+   "longitude": "-0,88427344422",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "60,14435446130",
+   "longitude": "-1,02170746606",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "52,11208404570",
+   "longitude": "1,54559131328",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "60,33504046880",
+   "longitude": "-1,70732141927",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "59,37196729840",
+   "longitude": "-2,88086442009",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "58,72420598810",
+   "longitude": "-3,01401312455",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "50,82733323010",
+   "longitude": "-1,12493854821",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "57,96008556880",
+   "longitude": "-5,51058990753",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "60,65458433810",
+   "longitude": "-1,30612712577",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "55,29415229720",
+   "longitude": "-6,21852577525",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "59,18083865200",
+   "longitude": "-3,07434885873",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "51,49172241740",
+   "longitude": "-2,81105104037",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "57,89712485810",
+   "longitude": "-6,35709343155",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "51,72691911300",
+   "longitude": "-5,28957059373",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "50,77991435230",
+   "longitude": "-1,36229518411",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "57,82216655440",
+   "longitude": "-8,57892675856",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "51,96785737080",
+   "longitude": "1,19076438629",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "59,07800769140",
+   "longitude": "-4,41861309669",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "59,86529827000",
+   "longitude": "-1,27315309715",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "51,47682219990",
+   "longitude": "0,45248693250",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "52,92644231740",
+   "longitude": "0,28600835273",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "54,90724964040",
+   "longitude": "-3,43126408890",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "60,27045652990",
+   "longitude": "-1,54297472266",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "59,29961634410",
+   "longitude": "-3,02264629727",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "54,86206314400",
+   "longitude": "-4,39437484280",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "52,37336867820",
+   "longitude": "1,69433269051",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "57,05646692860",
+   "longitude": "-6,54326745770",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "59,22788967460",
+   "longitude": "-2,82960344898",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "59,08414762120",
+   "longitude": "-2,67112158826",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "60,02479741370",
+   "longitude": "-1,28825684128",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "60,13107361900",
+   "longitude": "-1,08806429706",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Italy",
+   "iso": "ITA",
+   "latitude": "45,39777898100",
+   "longitude": "12,34927996720",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Italy",
+   "iso": "ITA",
+   "latitude": "40,33858918000",
+   "longitude": "8,73924902141",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Norway",
+   "iso": "NOR",
+   "latitude": "70,09885433410",
+   "longitude": "18,51929167060",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Norway",
+   "iso": "NOR",
+   "latitude": "69,27364529070",
+   "longitude": "15,87130034800",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Norway",
+   "iso": "NOR",
+   "latitude": "69,06765733310",
+   "longitude": "15,17252325790",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Norway",
+   "iso": "NOR",
+   "latitude": "68,76882622010",
+   "longitude": "14,44119168760",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Norway",
+   "iso": "NOR",
+   "latitude": "63,33171134630",
+   "longitude": "10,19708369950",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Norway",
+   "iso": "NOR",
+   "latitude": "62,41335284380",
+   "longitude": "5,65351933236",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Norway",
+   "iso": "NOR",
+   "latitude": "59,86353762610",
+   "longitude": "11,16412087980",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Norway",
+   "iso": "NOR",
+   "latitude": "66,34079697210",
+   "longitude": "12,56270094010",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Norway",
+   "iso": "NOR",
+   "latitude": "58,07809607730",
+   "longitude": "6,67538122192",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "51,51116551730",
+   "longitude": "17,37570386570",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "54,58028459390",
+   "longitude": "18,63701630060",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "47,65967075120",
+   "longitude": "8,85738466566",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "46,41628161680",
+   "longitude": "6,86295457148",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "46,56346807930",
+   "longitude": "6,23219427726",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "47,46724891580",
+   "longitude": "7,64322683342",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "47,01000385230",
+   "longitude": "7,16299110023",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "46,44529091070",
+   "longitude": "7,15421323019",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "46,70498437500",
+   "longitude": "7,40813008639",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "46,77554577560",
+   "longitude": "7,96263738148",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "47,18841121650",
+   "longitude": "9,35244876383",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "46,34577386550",
+   "longitude": "7,72386592697",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "46,11794869070",
+   "longitude": "7,78805825011",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "46,39302347630",
+   "longitude": "8,06084700282",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "46,74080890000",
+   "longitude": "9,33733084333",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "46,68479502360",
+   "longitude": "10,23302156240",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "46,19181173960",
+   "longitude": "8,06348295020",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "46,26876050710",
+   "longitude": "8,73499632181",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "46,53919829940",
+   "longitude": "8,80284670271",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "46,36105629470",
+   "longitude": "9,61626074715",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Switzerland",
+   "iso": "CHE",
+   "latitude": "47,02757162520",
+   "longitude": "8,81283424240",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Burundi",
+   "iso": "BDI",
+   "latitude": "-2,91739421198",
+   "longitude": "29,43507233230",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Benin",
+   "iso": "BEN",
+   "latitude": "11,23046148830",
+   "longitude": "1,52657828395",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Botswana",
+   "iso": "BWA",
+   "latitude": "-19,33011560880",
+   "longitude": "22,76902449530",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Botswana",
+   "iso": "BWA",
+   "latitude": "-24,45151246950",
+   "longitude": "25,99884387200",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Botswana",
+   "iso": "BWA",
+   "latitude": "-25,19594675700",
+   "longitude": "21,03825923950",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Djibouti",
+   "iso": "DJI",
+   "latitude": "11,20002092870",
+   "longitude": "41,85451428970",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Ethiopia",
+   "iso": "ETH",
+   "latitude": "12,01634060240",
+   "longitude": "37,30127460710",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Ethiopia",
+   "iso": "ETH",
+   "latitude": "10,35882070100",
+   "longitude": "39,76175193540",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Ethiopia",
+   "iso": "ETH",
+   "latitude": "7,52991323269",
+   "longitude": "38,54052074130",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Ghana",
+   "iso": "GHA",
+   "latitude": "5,90816138138",
+   "longitude": "0,85418963838",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-0,43567005291",
+   "longitude": "36,68328606700",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-0,90187541247",
+   "longitude": "36,67501747350",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-0,65268462218",
+   "longitude": "36,56334383030",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-0,18236582696",
+   "longitude": "37,33357808710",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-3,33366512952",
+   "longitude": "39,88280458190",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-4,32725839941",
+   "longitude": "39,57092257370",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-4,43365312214",
+   "longitude": "39,21765242390",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-4,02413253762",
+   "longitude": "39,50647621670",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-4,19724062529",
+   "longitude": "39,61550768790",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-4,71923562036",
+   "longitude": "39,37252893050",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-1,89637458655",
+   "longitude": "41,33811692490",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-3,33953459612",
+   "longitude": "40,06926744400",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-4,52381295937",
+   "longitude": "39,22118128550",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-4,48403353025",
+   "longitude": "39,26062551560",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-3,37590898417",
+   "longitude": "38,34487573880",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-2,50066365594",
+   "longitude": "40,28507464630",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-1,99228269870",
+   "longitude": "40,14361767400",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-2,78685788394",
+   "longitude": "38,74861196850",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-3,35004360168",
+   "longitude": "38,12603873340",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-2,65392460415",
+   "longitude": "37,87684588210",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "2,90101171177",
+   "longitude": "38,30088739640",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "3,53299773609",
+   "longitude": "36,19357883050",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-1,56479391532",
+   "longitude": "37,27665136560",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "0,09760963186",
+   "longitude": "38,20896794840",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-0,80481653291",
+   "longitude": "37,61076719890",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "0,60549101484",
+   "longitude": "37,55053642620",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "0,67642237307",
+   "longitude": "37,83415927190",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-1,37211135782",
+   "longitude": "36,85186759190",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-0,15365801932",
+   "longitude": "34,75164663260",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-0,30491093545",
+   "longitude": "34,77697387940",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-0,63819479773",
+   "longitude": "34,27652390140",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "0,03375158728",
+   "longitude": "34,06628366940",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-2,62541415923",
+   "longitude": "37,23201811100",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "1,10316381925",
+   "longitude": "35,45604562580",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "0,62446198435",
+   "longitude": "36,07072544230",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "0,26952103454",
+   "longitude": "36,08829979280",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-0,44076044380",
+   "longitude": "36,24048995750",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-0,74775787051",
+   "longitude": "36,35607037990",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-0,39216681389",
+   "longitude": "36,09673261870",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-1,37378401627",
+   "longitude": "35,33731148020",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "0,84924524718",
+   "longitude": "37,53593636090",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-1,76909728165",
+   "longitude": "35,91789117230",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "1,00787116756",
+   "longitude": "34,63383840860",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "0,25014935686",
+   "longitude": "34,02439328840",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Comoros",
+   "iso": "COM",
+   "latitude": "-12,22502016260",
+   "longitude": "44,44534282990",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Liberia",
+   "iso": "LBR",
+   "latitude": "7,50357629137",
+   "longitude": "-8,52626273171",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Liberia",
+   "iso": "LBR",
+   "latitude": "5,40514885730",
+   "longitude": "-8,50032146753",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Morocco",
+   "iso": "MAR",
+   "latitude": "35,05833824780",
+   "longitude": "-2,38253377992",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Madagascar",
+   "iso": "MDG",
+   "latitude": "-13,07677798970",
+   "longitude": "49,24284221940",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Madagascar",
+   "iso": "MDG",
+   "latitude": "-13,08529420500",
+   "longitude": "49,89224922020",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Madagascar",
+   "iso": "MDG",
+   "latitude": "-18,42798733110",
+   "longitude": "43,84683467040",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Madagascar",
+   "iso": "MDG",
+   "latitude": "-18,36155285440",
+   "longitude": "47,98365914280",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Madagascar",
+   "iso": "MDG",
+   "latitude": "-21,63559396210",
+   "longitude": "43,73036271720",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Mozambique",
+   "iso": "MOZ",
+   "latitude": "-21,48071517040",
+   "longitude": "35,36654014750",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Namibia",
+   "iso": "NAM",
+   "latitude": "-18,95596708620",
+   "longitude": "15,89911584000",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Namibia",
+   "iso": "NAM",
+   "latitude": "-22,95617615400",
+   "longitude": "14,45858075520",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Nigeria",
+   "iso": "NGA",
+   "latitude": "6,53566508104",
+   "longitude": "9,47080567636",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Nigeria",
+   "iso": "NGA",
+   "latitude": "13,07680552000",
+   "longitude": "13,80072103940",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Nigeria",
+   "iso": "NGA",
+   "latitude": "6,87474111378",
+   "longitude": "4,35148007193",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Nigeria",
+   "iso": "NGA",
+   "latitude": "8,79506997997",
+   "longitude": "5,83546005453",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Nigeria",
+   "iso": "NGA",
+   "latitude": "4,90358104752",
+   "longitude": "6,51849203949",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Nigeria",
+   "iso": "NGA",
+   "latitude": "9,83007087136",
+   "longitude": "10,47296417590",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Nigeria",
+   "iso": "NGA",
+   "latitude": "9,89236881007",
+   "longitude": "8,98177038359",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Nigeria",
+   "iso": "NGA",
+   "latitude": "12,64707624630",
+   "longitude": "10,51610693070",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Nigeria",
+   "iso": "NGA",
+   "latitude": "10,78601504970",
+   "longitude": "9,03836752976",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Sierra Leone",
+   "iso": "SLE",
+   "latitude": "8,31779346563",
+   "longitude": "-13,16271243010",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Senegal",
+   "iso": "SEN",
+   "latitude": "13,01023081230",
+   "longitude": "-13,03281576420",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "37,15028744010",
+   "longitude": "9,65808003886",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "36,83108685780",
+   "longitude": "10,98201476830",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "36,77885540870",
+   "longitude": "10,03205991860",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "36,85922846210",
+   "longitude": "10,93369023240",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "36,81270333280",
+   "longitude": "10,24436295790",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "36,75898772630",
+   "longitude": "10,15100871750",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "36,73168335010",
+   "longitude": "10,49352181060",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "36,75399280010",
+   "longitude": "10,89982928570",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "36,61474322180",
+   "longitude": "10,89070497630",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "36,24073905660",
+   "longitude": "10,45658967980",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "35,84658584780",
+   "longitude": "10,27077354210",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "35,75754463370",
+   "longitude": "10,75375039070",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "35,56960887870",
+   "longitude": "9,72577978004",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "34,71571944520",
+   "longitude": "11,17273506070",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "34,64131862960",
+   "longitude": "10,75159488370",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "34,39565193970",
+   "longitude": "9,78337947830",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "34,37427988330",
+   "longitude": "10,28970845950",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "34,16623082750",
+   "longitude": "10,02463269800",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "33,77811757350",
+   "longitude": "10,92505604670",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "33,66218657480",
+   "longitude": "10,48431311440",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "33,58831037610",
+   "longitude": "10,80785026210",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "33,51316964870",
+   "longitude": "8,80306242683",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "33,47240242330",
+   "longitude": "8,97969822270",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "33,48271840190",
+   "longitude": "8,94167241665",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "33,43038847900",
+   "longitude": "8,78965106677",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tunisia",
+   "iso": "TUN",
+   "latitude": "33,23996979600",
+   "longitude": "11,27611703730",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tanzania",
+   "iso": "TZA",
+   "latitude": "-3,25763275668",
+   "longitude": "36,79730139520",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tanzania",
+   "iso": "TZA",
+   "latitude": "-3,59635265509",
+   "longitude": "35,74454556340",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Tanzania",
+   "iso": "TZA",
+   "latitude": "-7,55532152772",
+   "longitude": "34,62393752150",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tanzania",
+   "iso": "TZA",
+   "latitude": "-4,14535232046",
+   "longitude": "36,10214420990",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Tanzania",
+   "iso": "TZA",
+   "latitude": "-10,36139337160",
+   "longitude": "40,34871190030",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Tanzania",
+   "iso": "TZA",
+   "latitude": "-2,53470996098",
+   "longitude": "36,02118471710",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Tanzania",
+   "iso": "TZA",
+   "latitude": "-8,43153185770",
+   "longitude": "34,25524061730",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tanzania",
+   "iso": "TZA",
+   "latitude": "-1,47935040021",
+   "longitude": "34,11958721580",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Tanzania",
+   "iso": "TZA",
+   "latitude": "-6,94696352812",
+   "longitude": "38,91788263480",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tanzania",
+   "iso": "TZA",
+   "latitude": "-7,02690206557",
+   "longitude": "37,72562568390",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tanzania",
+   "iso": "TZA",
+   "latitude": "-9,31175986606",
+   "longitude": "33,44466741080",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Tanzania",
+   "iso": "TZA",
+   "latitude": "-4,97695343226",
+   "longitude": "38,68904347060",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Uganda",
+   "iso": "UGA",
+   "latitude": "-0,90620468384",
+   "longitude": "31,65443066570",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-24,05079994990",
+   "longitude": "31,46774508170",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-22,87574093110",
+   "longitude": "30,06273945750",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-25,61254743960",
+   "longitude": "30,77457891750",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-26,32573901560",
+   "longitude": "30,24912158750",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-27,36779271180",
+   "longitude": "29,97945454960",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-25,24273519710",
+   "longitude": "27,07758411530",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-25,68311756870",
+   "longitude": "20,36578890950",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-28,07401747900",
+   "longitude": "24,56201924930",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-28,53398239590",
+   "longitude": "20,17127660200",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-28,59908784610",
+   "longitude": "16,47461271970",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-28,67312324920",
+   "longitude": "24,76093449430",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-29,05167275630",
+   "longitude": "19,58226289110",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-29,06743678340",
+   "longitude": "18,69760316160",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-29,78435961180",
+   "longitude": "19,03124573530",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-30,58766113980",
+   "longitude": "24,34261008310",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-28,16763315430",
+   "longitude": "29,31319313780",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-26,88074416060",
+   "longitude": "32,26645123030",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-27,39910312710",
+   "longitude": "31,94598187790",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-27,50549220990",
+   "longitude": "31,29000466390",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-28,25849148780",
+   "longitude": "31,90516329110",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-28,84632741770",
+   "longitude": "31,69964768750",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-29,49160856430",
+   "longitude": "29,82928188480",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-29,70490759940",
+   "longitude": "29,87134849470",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-30,04264791470",
+   "longitude": "30,03548117070",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-30,30137963440",
+   "longitude": "29,45741640250",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-30,71224666260",
+   "longitude": "30,24922726580",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-32,00890489800",
+   "longitude": "28,62476051600",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-32,25619965710",
+   "longitude": "28,87181626820",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-32,25953353260",
+   "longitude": "24,55924681110",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-33,63158928950",
+   "longitude": "24,00861835360",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-33,63946971040",
+   "longitude": "26,24666558010",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-33,81904994620",
+   "longitude": "25,96997414810",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-33,84548618740",
+   "longitude": "25,58507914450",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-33,96306962260",
+   "longitude": "25,15127311210",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-34,03383606540",
+   "longitude": "23,70905566720",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-31,65975401090",
+   "longitude": "18,20422361210",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-32,08927272950",
+   "longitude": "18,30170522750",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-32,48796093480",
+   "longitude": "19,22436985580",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-32,25798397710",
+   "longitude": "22,31088146450",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-32,36896716600",
+   "longitude": "18,43468709700",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-32,81995751210",
+   "longitude": "18,19132997230",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-33,18550296960",
+   "longitude": "18,11772782590",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-33,37853394310",
+   "longitude": "21,96733431710",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-33,95474782000",
+   "longitude": "19,08378689090",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-33,47642169240",
+   "longitude": "20,59528117870",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-33,42328244480",
+   "longitude": "18,08579990740",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-33,80564606170",
+   "longitude": "18,36946178020",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-33,84935249420",
+   "longitude": "18,49701662490",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-33,89855824770",
+   "longitude": "22,66573651340",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-33,94219279250",
+   "longitude": "20,83770436650",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-34,01800776520",
+   "longitude": "22,78220926170",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-34,33452082990",
+   "longitude": "20,35371020770",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-34,07804757540",
+   "longitude": "18,51500183270",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-34,19922452350",
+   "longitude": "18,45322341970",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-34,36928889830",
+   "longitude": "19,21530808740",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-34,68572055870",
+   "longitude": "19,41328877900",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-34,69135887820",
+   "longitude": "20,09456174310",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Zambia",
+   "iso": "ZMB",
+   "latitude": "-14,49941329890",
+   "longitude": "22,59547602320",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Zimbabwe",
+   "iso": "ZWE",
+   "latitude": "-19,27418106300",
+   "longitude": "30,78555779910",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Zimbabwe",
+   "iso": "ZWE",
+   "latitude": "-22,26299940710",
+   "longitude": "31,30310550830",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Bahrain",
+   "iso": "BHR",
+   "latitude": "25,67477845560",
+   "longitude": "50,77428968760",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Iran, Islamic Republic of",
+   "iso": "IRN",
+   "latitude": "31,33749107580",
+   "longitude": "61,65459043320",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Syria",
+   "iso": "SYR",
+   "latitude": "35,32622569720",
+   "longitude": "39,39419341780",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Syria",
+   "iso": "SYR",
+   "latitude": "33,29130626880",
+   "longitude": "37,32856661320",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Yemen",
+   "iso": "YEM",
+   "latitude": "13,38260635680",
+   "longitude": "43,65843023730",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Yemen",
+   "iso": "YEM",
+   "latitude": "16,20886819060",
+   "longitude": "51,61374855190",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "47,45372578220",
+   "longitude": "35,18926290050",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "47,50806102060",
+   "longitude": "34,61233386010",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "51,23840381510",
+   "longitude": "34,17937400780",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "49,57281579030",
+   "longitude": "31,99055000810",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "51,19803715720",
+   "longitude": "31,31200042530",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Ukraine",
+   "iso": "UKR",
+   "latitude": "49,91863721490",
+   "longitude": "23,43465427350",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Mexico",
+   "iso": "MEX",
+   "latitude": "23,10941082630",
+   "longitude": "-109,66144933800",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Mexico",
+   "iso": "MEX",
+   "latitude": "17,19378327730",
+   "longitude": "-93,10317962930",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Mexico",
+   "iso": "MEX",
+   "latitude": "17,17555223510",
+   "longitude": "-92,51283444320",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Mexico",
+   "iso": "MEX",
+   "latitude": "17,17439234600",
+   "longitude": "-92,24051896500",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Mexico",
+   "iso": "MEX",
+   "latitude": "16,99168318030",
+   "longitude": "-92,66118858650",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Russia (European)",
+   "iso": "RUS",
+   "latitude": "49,25945818950",
+   "longitude": "45,42921072550",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Russia (European)",
+   "iso": "RUS",
+   "latitude": "45,78570271870",
+   "longitude": "44,08169757010",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Colombia",
+   "iso": "COL",
+   "latitude": "-3,43090144932",
+   "longitude": "-70,14354437150",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Colombia",
+   "iso": "COL",
+   "latitude": "3,19999982698",
+   "longitude": "-67,98000016180",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Colombia",
+   "iso": "COL",
+   "latitude": "-3,88187820672",
+   "longitude": "-70,22348374310",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Ecuador",
+   "iso": "ECU",
+   "latitude": "-0,63001053779",
+   "longitude": "-75,83560908720",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Ecuador",
+   "iso": "ECU",
+   "latitude": "-0,31588456071",
+   "longitude": "-75,78838275630",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Ecuador",
+   "iso": "ECU",
+   "latitude": "-1,10484214913",
+   "longitude": "-76,22628497360",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Peru",
+   "iso": "PER",
+   "latitude": "-9,89736933085",
+   "longitude": "-74,52879757310",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Peru",
+   "iso": "PER",
+   "latitude": "-12,31165001260",
+   "longitude": "-70,40026629200",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "45,14577647120",
+   "longitude": "142,30060554100",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "44,91924587850",
+   "longitude": "142,62868048400",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "44,42508778500",
+   "longitude": "141,31512164400",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "44,26024227450",
+   "longitude": "143,51172472500",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "43,21483273230",
+   "longitude": "145,59886796100",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "38,37540389960",
+   "longitude": "139,87819974100",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "37,47727514800",
+   "longitude": "140,08721412400",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "34,08477528250",
+   "longitude": "139,52099577300",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "35,35054177990",
+   "longitude": "134,44091496100",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "35,44506079980",
+   "longitude": "132,94436362400",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "42,66743385690",
+   "longitude": "141,78590878200",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "35,28490698090",
+   "longitude": "136,08904326300",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "32,46469162030",
+   "longitude": "131,73080137700",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "39,80673149660",
+   "longitude": "140,77852700100",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "38,76690059220",
+   "longitude": "141,13350280100",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "38,61364688020",
+   "longitude": "141,53156992000",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "38,39693438780",
+   "longitude": "141,59065167600",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "38,71757401060",
+   "longitude": "141,11114687600",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "39,19417748760",
+   "longitude": "139,54829132300",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "28,09815570690",
+   "longitude": "129,25958117700",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Japan",
+   "iso": "JPN",
+   "latitude": "24,37068692300",
+   "longitude": "123,93035565800",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "China (mainland)",
+   "iso": "CHN",
+   "latitude": "27,40506428410",
+   "longitude": "103,32303243500",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "China (mainland)",
+   "iso": "CHN",
+   "latitude": "26,68670232760",
+   "longitude": "103,28769392600",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Indonesia",
+   "iso": "IDN",
+   "latitude": "-2,34734971923",
+   "longitude": "103,30506116300",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Indonesia",
+   "iso": "IDN",
+   "latitude": "-9,72250504990",
+   "longitude": "119,68822682700",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Indonesia",
+   "iso": "IDN",
+   "latitude": "1,84909881357",
+   "longitude": "127,82777816100",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Indonesia",
+   "iso": "IDN",
+   "latitude": "-3,33327388399",
+   "longitude": "128,53306449800",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Indonesia",
+   "iso": "IDN",
+   "latitude": "-3,10319124969",
+   "longitude": "129,49065013600",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Korea",
+   "iso": "KOR",
+   "latitude": "37,28495347880",
+   "longitude": "126,69492285300",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Korea",
+   "iso": "KOR",
+   "latitude": "34,60894152250",
+   "longitude": "126,77535369900",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Korea",
+   "iso": "KOR",
+   "latitude": "34,84393132740",
+   "longitude": "127,50065400700",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Indonesia",
+   "iso": "IDN",
+   "latitude": "2,73694358461",
+   "longitude": "125,40091767300",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Indonesia",
+   "iso": "IDN",
+   "latitude": "-2,40465846289",
+   "longitude": "121,13573362600",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Singapore",
+   "iso": "SGP",
+   "latitude": "1,40577414896",
+   "longitude": "103,98884973900",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "13,44692514160",
+   "longitude": "94,26390887690",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "16,61110241640",
+   "longitude": "81,20000886860",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "16,65527060090",
+   "longitude": "79,38716265070",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "26,79386536370",
+   "longitude": "91,73137301360",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "27,72926863270",
+   "longitude": "95,36041778550",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "26,95501603750",
+   "longitude": "94,19400707310",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "22,20133410050",
+   "longitude": "69,16173494640",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "22,54226365330",
+   "longitude": "69,80487726460",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "22,82015881160",
+   "longitude": "74,17379818530",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "31,67962050130",
+   "longitude": "77,93181605230",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "28,53408058870",
+   "longitude": "76,55008219210",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "34,20358009130",
+   "longitude": "74,06576072130",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "34,35305319000",
+   "longitude": "74,57263846080",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "10,88091286860",
+   "longitude": "72,60431081450",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "20,01319855200",
+   "longitude": "74,11991788100",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "22,69863206790",
+   "longitude": "74,90544017030",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "24,39993698260",
+   "longitude": "73,33712064330",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "24,42636627250",
+   "longitude": "73,84783421680",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "27,23379960380",
+   "longitude": "88,12127442400",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "27,27738150010",
+   "longitude": "88,38331776350",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "9,35224130904",
+   "longitude": "78,44395018240",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "India",
+   "iso": "IND",
+   "latitude": "28,49536646910",
+   "longitude": "80,70933048280",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Jamaica",
+   "iso": "JAM",
+   "latitude": "18,30294502240",
+   "longitude": "-77,67575704950",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Colombia",
+   "iso": "COL",
+   "latitude": "-1,22721995424",
+   "longitude": "-69,85322260390",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Colombia",
+   "iso": "COL",
+   "latitude": "-4,15834076095",
+   "longitude": "-69,99427408630",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Colombia",
+   "iso": "COL",
+   "latitude": "6,88333331032",
+   "longitude": "-71,16666667490",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Panama",
+   "iso": "PAN",
+   "latitude": "8,57306227107",
+   "longitude": "-81,71790348410",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Panama",
+   "iso": "PAN",
+   "latitude": "8,95387629602",
+   "longitude": "-79,05506442230",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Panama",
+   "iso": "PAN",
+   "latitude": "8,90926464969",
+   "longitude": "-78,58580324010",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Argentina",
+   "iso": "ARG",
+   "latitude": "-35,96163206190",
+   "longitude": "-57,26697513500",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Argentina",
+   "iso": "ARG",
+   "latitude": "-46,87633103960",
+   "longitude": "-71,33920801300",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Puerto Rico (to USA)",
+   "iso": "PRI",
+   "latitude": "18,47861806390",
+   "longitude": "-66,60028667820",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Dominican Republic",
+   "iso": "DOM",
+   "latitude": "18,16940780160",
+   "longitude": "-71,53000054870",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Dominican Republic",
+   "iso": "DOM",
+   "latitude": "18,28795021360",
+   "longitude": "-71,24225158490",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Dominican Republic",
+   "iso": "DOM",
+   "latitude": "18,47585540590",
+   "longitude": "-71,63252232840",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "48,72317374170",
+   "longitude": "62,10095937610",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "43,05651298000",
+   "longitude": "76,86632281500",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "42,26537785410",
+   "longitude": "70,63652509550",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "45,03944563650",
+   "longitude": "75,29647125010",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "51,48549685860",
+   "longitude": "64,29805870420",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "51,31013616700",
+   "longitude": "62,74442331360",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Zambia",
+   "iso": "ZMB",
+   "latitude": "-13,20275178190",
+   "longitude": "22,81902620010",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Fiji",
+   "iso": "FJI",
+   "latitude": "-12,50339597910",
+   "longitude": "177,08299372600",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Fiji",
+   "iso": "FJI",
+   "latitude": "-17,31594506010",
+   "longitude": "178,46648727800",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Fiji",
+   "iso": "FJI",
+   "latitude": "-19,16397376690",
+   "longitude": "-178,41142742500",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Turkmenistan",
+   "iso": "TKM",
+   "latitude": "41,05614221620",
+   "longitude": "52,90194426350",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Turkmenistan",
+   "iso": "TKM",
+   "latitude": "37,78379837010",
+   "longitude": "66,50130916750",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "45,53090941460",
+   "longitude": "74,71216708140",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Turkmenistan",
+   "iso": "TKM",
+   "latitude": "39,33989623810",
+   "longitude": "53,26677635900",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "44,06591565440",
+   "longitude": "78,77480162280",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Uzbekistan",
+   "iso": "UZB",
+   "latitude": "38,40668034610",
+   "longitude": "65,56639627120",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Uzbekistan",
+   "iso": "UZB",
+   "latitude": "43,48290636150",
+   "longitude": "58,52024665670",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Uzbekistan",
+   "iso": "UZB",
+   "latitude": "37,84169667280",
+   "longitude": "67,64217765780",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Uzbekistan",
+   "iso": "UZB",
+   "latitude": "39,85079081780",
+   "longitude": "64,82545270810",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Uzbekistan",
+   "iso": "UZB",
+   "latitude": "43,49752597420",
+   "longitude": "59,81759381040",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Uzbekistan",
+   "iso": "UZB",
+   "latitude": "40,39641810200",
+   "longitude": "63,48602897990",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Turkmenistan",
+   "iso": "TKM",
+   "latitude": "39,79661472010",
+   "longitude": "53,35221409460",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Turkmenistan",
+   "iso": "TKM",
+   "latitude": "39,09167021210",
+   "longitude": "53,76493711360",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Turkmenistan",
+   "iso": "TKM",
+   "latitude": "37,97766413580",
+   "longitude": "53,83108691360",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Turkmenistan",
+   "iso": "TKM",
+   "latitude": "37,50648127310",
+   "longitude": "53,90757081360",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Turkmenistan",
+   "iso": "TKM",
+   "latitude": "37,73596885110",
+   "longitude": "58,33265264270",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Turkmenistan",
+   "iso": "TKM",
+   "latitude": "38,62565974870",
+   "longitude": "61,07569336730",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Turkmenistan",
+   "iso": "TKM",
+   "latitude": "38,60082882900",
+   "longitude": "63,25537801710",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "49,15180823580",
+   "longitude": "48,38404572120",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Turkmenistan",
+   "iso": "TKM",
+   "latitude": "38,78118234010",
+   "longitude": "62,35560032060",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Turkmenistan",
+   "iso": "TKM",
+   "latitude": "38,79120541080",
+   "longitude": "64,19478710810",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "45,83480608490",
+   "longitude": "55,37939277250",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "44,79946679640",
+   "longitude": "53,88376698360",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "53,31827235700",
+   "longitude": "-4,02744899058",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "57,74765507290",
+   "longitude": "-5,43213186217",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "53,19173836200",
+   "longitude": "-1,09853595308",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Jamaica",
+   "iso": "JAM",
+   "latitude": "18,35044572250",
+   "longitude": "-78,15167492240",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "50,43566512250",
+   "longitude": "69,18765296910",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-1,65660353643",
+   "longitude": "41,26576476900",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "42,90884356010",
+   "longitude": "52,86964569320",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "42,78813350620",
+   "longitude": "53,41709512550",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "43,58747026260",
+   "longitude": "51,75568946000",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Tajikistan",
+   "iso": "TJK",
+   "latitude": "37,83455592480",
+   "longitude": "73,00977528130",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Tajikistan",
+   "iso": "TJK",
+   "latitude": "37,42635610890",
+   "longitude": "73,77208415980",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Tajikistan",
+   "iso": "TJK",
+   "latitude": "39,02928322770",
+   "longitude": "73,33581538550",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Tajikistan",
+   "iso": "TJK",
+   "latitude": "40,39856367440",
+   "longitude": "70,19226236340",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Tajikistan",
+   "iso": "TJK",
+   "latitude": "39,07097149980",
+   "longitude": "68,32983991430",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "49,28596543710",
+   "longitude": "67,40956149520",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "50,22681088610",
+   "longitude": "64,12228113110",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "51,39899376900",
+   "longitude": "61,88263565680",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "44,95495639480",
+   "longitude": "67,68009377330",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "44,97837399760",
+   "longitude": "75,14900345100",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "50,44663712720",
+   "longitude": "67,25489555840",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "44,00686750860",
+   "longitude": "69,74984160400",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "48,39790521390",
+   "longitude": "66,72487090090",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "43,00278926600",
+   "longitude": "79,98949463510",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Tajikistan",
+   "iso": "TJK",
+   "latitude": "40,32041742820",
+   "longitude": "69,48865369340",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Tajikistan",
+   "iso": "TJK",
+   "latitude": "37,00165358690",
+   "longitude": "72,22761761640",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Tajikistan",
+   "iso": "TJK",
+   "latitude": "37,62843376730",
+   "longitude": "70,08061162970",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Tajikistan",
+   "iso": "TJK",
+   "latitude": "39,84679938050",
+   "longitude": "69,06390479980",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "52,66703536720",
+   "longitude": "64,74627770730",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "50,56163341800",
+   "longitude": "51,68673018960",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "49,44418320080",
+   "longitude": "49,84373523450",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Uzbekistan",
+   "iso": "UZB",
+   "latitude": "40,88887997280",
+   "longitude": "70,21802561350",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Russia (European)",
+   "iso": "RUS",
+   "latitude": "43,44775748980",
+   "longitude": "46,21659896770",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "54,11854237470",
+   "longitude": "64,53971717770",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Russia (European)",
+   "iso": "RUS",
+   "latitude": "44,81385625870",
+   "longitude": "46,77106952820",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Sweden",
+   "iso": "SWE",
+   "latitude": "63,52671163000",
+   "longitude": "12,36609455370",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "54,26072249280",
+   "longitude": "66,71243638210",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "52,92438814830",
+   "longitude": "14,31083531420",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "53,68321293770",
+   "longitude": "14,70268206140",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "53,07875773560",
+   "longitude": "15,85928392220",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "52,22431209690",
+   "longitude": "16,87841047870",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "51,98857679060",
+   "longitude": "21,34760919450",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "54,80122204850",
+   "longitude": "18,25295156900",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "51,70390467110",
+   "longitude": "17,60401962820",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "54,31047062870",
+   "longitude": "20,72360378770",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "45,02329579520",
+   "longitude": "66,85149340980",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "53,16086030890",
+   "longitude": "22,44040741750",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "52,72102289390",
+   "longitude": "16,13357985020",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "52,60487465730",
+   "longitude": "16,74806541440",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "52,59292548360",
+   "longitude": "17,27647320580",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "50,52843511250",
+   "longitude": "23,69911100760",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-11,11735078900",
+   "longitude": "130,33329937100",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Turkmenistan",
+   "iso": "TKM",
+   "latitude": "40,65343540870",
+   "longitude": "62,09951718080",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Turkmenistan",
+   "iso": "TKM",
+   "latitude": "38,95829852450",
+   "longitude": "53,05288507940",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "50,00566834180",
+   "longitude": "19,42611298230",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "49,51267111700",
+   "longitude": "19,16503678280",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "49,46581994030",
+   "longitude": "21,73030673660",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Uzbekistan",
+   "iso": "UZB",
+   "latitude": "38,96498178490",
+   "longitude": "66,40753752030",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Uzbekistan",
+   "iso": "UZB",
+   "latitude": "40,31941295300",
+   "longitude": "65,65545673180",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "51,94003549390",
+   "longitude": "16,30363566590",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "52,10515211030",
+   "longitude": "19,43615275490",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "50,33350752990",
+   "longitude": "84,15458795290",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Uzbekistan",
+   "iso": "UZB",
+   "latitude": "37,98268844480",
+   "longitude": "67,09116520570",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Uzbekistan",
+   "iso": "UZB",
+   "latitude": "41,75843536060",
+   "longitude": "62,65250945850",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "49,34447036080",
+   "longitude": "50,43691501490",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "50,35326075700",
+   "longitude": "70,28752480120",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "50,73185675280",
+   "longitude": "69,91756494870",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Uzbekistan",
+   "iso": "UZB",
+   "latitude": "39,61042304810",
+   "longitude": "67,21505139110",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-12,12622905280",
+   "longitude": "134,58904730200",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-12,06216862160",
+   "longitude": "134,90110726800",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "51,40693348030",
+   "longitude": "63,55532293500",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "46,41238867640",
+   "longitude": "80,98641747240",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "46,16935174190",
+   "longitude": "81,80114929140",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-12,29068766450",
+   "longitude": "135,66621056200",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-13,13306821230",
+   "longitude": "136,01512830200",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-12,53552293760",
+   "longitude": "135,05316924900",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-14,05617124060",
+   "longitude": "129,88140027900",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-13,46424380980",
+   "longitude": "130,33985107600",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-12,95305563440",
+   "longitude": "130,41491950500",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-12,48606069300",
+   "longitude": "131,50691466600",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-12,30331185050",
+   "longitude": "132,53863388200",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-14,81354326140",
+   "longitude": "135,33972361800",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-15,89495026640",
+   "longitude": "136,77483253700",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-15,08103334900",
+   "longitude": "129,39582972200",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-20,03260201880",
+   "longitude": "139,25863940700",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Palau",
+   "iso": "PLW",
+   "latitude": "8,05861315768",
+   "longitude": "134,71116221200",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-27,46497037300",
+   "longitude": "153,30095537500",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Palau",
+   "iso": "PLW",
+   "latitude": "6,97761124554",
+   "longitude": "134,20986654900",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Palau",
+   "iso": "PLW",
+   "latitude": "5,35402663602",
+   "longitude": "132,22761364900",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Palau",
+   "iso": "PLW",
+   "latitude": "2,97400361212",
+   "longitude": "131,81195201700",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-0,10890654204",
+   "longitude": "36,43133133480",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Cook Islands",
+   "iso": "COK",
+   "latitude": "-13,25694075440",
+   "longitude": "-163,12985425700",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Cook Islands",
+   "iso": "COK",
+   "latitude": "-19,81181609000",
+   "longitude": "-158,28837545200",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-7,91747665247",
+   "longitude": "-140,57220524900",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-9,98502928628",
+   "longitude": "-138,82669547300",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-16,15478739530",
+   "longitude": "-146,35396863300",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-16,84485297050",
+   "longitude": "-144,74977598400",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Samoa",
+   "iso": "WSM",
+   "latitude": "-14,03796341400",
+   "longitude": "-171,41809657000",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-34,69635714860",
+   "longitude": "150,65821193500",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-28,85685167870",
+   "longitude": "142,87751745400",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-34,52573480680",
+   "longitude": "146,42298698400",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-29,32499613360",
+   "longitude": "149,44091901200",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-37,43701637250",
+   "longitude": "149,87258984400",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-29,77671556830",
+   "longitude": "144,27879267500",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-33,26903828170",
+   "longitude": "151,51991707900",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-16,17106351190",
+   "longitude": "145,25235965200",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-19,03089067500",
+   "longitude": "146,25183100900",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-17,75013418250",
+   "longitude": "145,75068404100",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-17,03727249040",
+   "longitude": "140,68460486900",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-38,22030435500",
+   "longitude": "144,44473360700",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-37,89086064760",
+   "longitude": "144,80325553700",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-38,23751814640",
+   "longitude": "144,66740919800",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-38,02637723060",
+   "longitude": "144,55274564500",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-39,10457856670",
+   "longitude": "146,33847463500",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-35,98760337640",
+   "longitude": "139,44332225400",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-12,24046457250",
+   "longitude": "123,09330540700",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-39,67212005710",
+   "longitude": "147,99527882300",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-18,14921804000",
+   "longitude": "146,29327517900",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-11,50537804360",
+   "longitude": "143,12237101500",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-23,58498903050",
+   "longitude": "152,07657783800",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-13,60975171630",
+   "longitude": "143,76590369100",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-16,60518637640",
+   "longitude": "145,97932759100",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-12,24687649530",
+   "longitude": "143,21988994300",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-11,44022056330",
+   "longitude": "143,95570231300",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-17,74161626370",
+   "longitude": "146,16048238100",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-14,31875734600",
+   "longitude": "144,85092853700",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-17,00069300410",
+   "longitude": "146,07883773900",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-21,76456193390",
+   "longitude": "152,41706349100",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-13,97826175670",
+   "longitude": "144,47348702800",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-16,84689240790",
+   "longitude": "149,94587547200",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-35,12306313170",
+   "longitude": "137,82714034600",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Cocos (Keeling) Islands (to Australia)",
+   "iso": "CCK",
+   "latitude": "-11,82311266540",
+   "longitude": "96,82322175750",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "49,97677694160",
+   "longitude": "19,22478683900",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Zambia",
+   "iso": "ZMB",
+   "latitude": "-8,94038774469",
+   "longitude": "31,37407279620",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Mozambique",
+   "iso": "MOZ",
+   "latitude": "-16,28052445250",
+   "longitude": "36,36284205010",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-28,25268139310",
+   "longitude": "152,78526847200",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-22,41408012730",
+   "longitude": "149,83716121900",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-40,78872526770",
+   "longitude": "148,04330669300",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-30,44126767740",
+   "longitude": "150,87000550500",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-21,05559995580",
+   "longitude": "148,56441189000",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-27,09953379350",
+   "longitude": "140,19390748400",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-30,93250120730",
+   "longitude": "147,62917546800",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-32,34987059970",
+   "longitude": "142,36876576800",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-32,35446403830",
+   "longitude": "149,91236012300",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-30,56662088220",
+   "longitude": "152,47466231700",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "49,87659208280",
+   "longitude": "18,83384827310",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Micronesia, Federated States of",
+   "iso": "FSM",
+   "latitude": "9,52221125836",
+   "longitude": "138,10025588000",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-35,83243746560",
+   "longitude": "145,08883523500",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-33,03256825330",
+   "longitude": "150,09576875100",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-36,83003260140",
+   "longitude": "141,81700578400",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-34,45966366830",
+   "longitude": "143,99799355500",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-35,78814924800",
+   "longitude": "144,02712842700",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-33,64138166650",
+   "longitude": "150,75266917000",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-34,35132316950",
+   "longitude": "148,18398398400",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-18,41108714800",
+   "longitude": "-70,31956956670",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-18,40564035130",
+   "longitude": "-70,07842406400",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-18,55361002430",
+   "longitude": "-70,07127877110",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-18,62076640590",
+   "longitude": "-70,33715424380",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-21,43156956800",
+   "longitude": "-70,05082821380",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-22,84645388840",
+   "longitude": "-70,31217780790",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-22,95056697890",
+   "longitude": "-70,53424093860",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-23,17593621330",
+   "longitude": "-68,16082532360",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-23,05056367690",
+   "longitude": "-67,32458385330",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-23,75210694560",
+   "longitude": "-67,75860558180",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-24,47333367840",
+   "longitude": "-70,53585186030",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-26,13141924450",
+   "longitude": "-70,58250806400",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-27,24525758760",
+   "longitude": "-70,97438059320",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-29,03347344240",
+   "longitude": "-71,57773953830",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-29,26149651850",
+   "longitude": "-71,53927811970",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-29,57882578600",
+   "longitude": "-71,53945840070",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-30,27695638010",
+   "longitude": "-71,63297609770",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-29,94612231550",
+   "longitude": "-71,34712199780",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-30,67274754380",
+   "longitude": "-71,66630710040",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-31,50849356870",
+   "longitude": "-71,10315569650",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-32,58346989140",
+   "longitude": "-71,45778817090",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-33,62293256570",
+   "longitude": "-71,61957283760",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-33,75958055850",
+   "longitude": "-71,70725483220",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-35,68475917450",
+   "longitude": "-71,27031756490",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-38,67110251790",
+   "longitude": "-71,67412411210",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-38,87376112720",
+   "longitude": "-73,30027143580",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-39,49305228540",
+   "longitude": "-71,71677822080",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-39,82282566460",
+   "longitude": "-73,37460124110",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-52,62332506770",
+   "longitude": "-69,10847944400",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-32,06468731840",
+   "longitude": "151,52719755100",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-34,18925945350",
+   "longitude": "146,25646754500",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-26,85939164080",
+   "longitude": "151,90356795000",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-23,44326128080",
+   "longitude": "150,67842103300",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-25,84757310890",
+   "longitude": "113,89635293600",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-39,96785430190",
+   "longitude": "148,18940940600",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-33,42052350850",
+   "longitude": "134,85879318600",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-32,70522788950",
+   "longitude": "115,71404594500",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "USA",
+   "iso": "USA",
+   "latitude": "29,78220799450",
+   "longitude": "-88,97723485510",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "USA",
+   "iso": "USA",
+   "latitude": "22,20074080240",
+   "longitude": "-159,47150478900",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "USA",
+   "iso": "USA",
+   "latitude": "26,20447043930",
+   "longitude": "-80,56709030800",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "USA",
+   "iso": "USA",
+   "latitude": "33,31425433710",
+   "longitude": "-115,81708674100",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-36,78705501150",
+   "longitude": "144,28121820000",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-33,17165024580",
+   "longitude": "115,83572721000",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-31,97484342110",
+   "longitude": "148,93791416100",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-36,26785059360",
+   "longitude": "140,07335364200",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-35,18462133210",
+   "longitude": "137,01274231700",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-35,04568842930",
+   "longitude": "149,70085701100",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-36,82910132020",
+   "longitude": "143,69022511300",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-34,44787505020",
+   "longitude": "116,74888883300",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-34,63805263770",
+   "longitude": "146,20406647100",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-36,12391855300",
+   "longitude": "144,45091601300",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-34,98747652320",
+   "longitude": "140,82115546400",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-36,74912302040",
+   "longitude": "144,90607928700",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-36,85842281220",
+   "longitude": "143,13147981500",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-28,37774081030",
+   "longitude": "151,59072455700",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-36,31106793710",
+   "longitude": "146,23340412100",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-42,55247870260",
+   "longitude": "147,88190990200",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-31,36012480170",
+   "longitude": "116,27569998600",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-36,13716806310",
+   "longitude": "150,09015306400",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Jamaica",
+   "iso": "JAM",
+   "latitude": "18,44568889980",
+   "longitude": "-77,54131080850",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-36,53652293960",
+   "longitude": "147,95275483900",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-15,44393727870",
+   "longitude": "-146,53909376800",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-16,47846902170",
+   "longitude": "-154,41534548600",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "49,66000862580",
+   "longitude": "18,94369694990",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "49,67275781710",
+   "longitude": "20,23119604140",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "53,95009341960",
+   "longitude": "20,30943008750",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-19,22347982020",
+   "longitude": "-70,28295199710",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-18,47309003570",
+   "longitude": "-70,32496324650",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-18,55667906900",
+   "longitude": "-70,33527498360",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-18,58194771160",
+   "longitude": "-70,33970833040",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-18,49232741030",
+   "longitude": "-70,32737573790",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kyrgyzstan",
+   "iso": "KGZ",
+   "latitude": "43,13688996920",
+   "longitude": "74,07668034590",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Poland",
+   "iso": "POL",
+   "latitude": "50,37700003430",
+   "longitude": "19,21663115640",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-33,16599333200",
+   "longitude": "-71,48030094350",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Fiji",
+   "iso": "FJI",
+   "latitude": "-18,01196950380",
+   "longitude": "-178,44881257200",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Samoa",
+   "iso": "WSM",
+   "latitude": "-13,99193514240",
+   "longitude": "-171,52337302300",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Samoa",
+   "iso": "WSM",
+   "latitude": "-13,90573742620",
+   "longitude": "-171,79825411700",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Samoa",
+   "iso": "WSM",
+   "latitude": "-13,63092198020",
+   "longitude": "-172,45993435300",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Fiji",
+   "iso": "FJI",
+   "latitude": "-17,11019916560",
+   "longitude": "179,09969952400",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Spain",
+   "iso": "ESP",
+   "latitude": "40,37025190410",
+   "longitude": "0,83211323199",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Cook Islands",
+   "iso": "COK",
+   "latitude": "-18,85922598750",
+   "longitude": "-159,78268023400",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-39,30490122000",
+   "longitude": "-73,22922214660",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Chile",
+   "iso": "CHL",
+   "latitude": "-23,18772299150",
+   "longitude": "-67,52664840870",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Ethiopia",
+   "iso": "ETH",
+   "latitude": "11,70938151960",
+   "longitude": "38,22447452510",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Uzbekistan",
+   "iso": "UZB",
+   "latitude": "43,65445283360",
+   "longitude": "60,37731043400",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Ethiopia",
+   "iso": "ETH",
+   "latitude": "11,61097536710",
+   "longitude": "38,91166699950",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "USA",
+   "iso": "USA",
+   "latitude": "25,49406156840",
+   "longitude": "-170,26654598200",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "USA",
+   "iso": "USA",
+   "latitude": "29,42183608610",
+   "longitude": "-90,45084266180",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "USA",
+   "iso": "USA",
+   "latitude": "29,04797415280",
+   "longitude": "-90,63844623730",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "Uzbekistan",
+   "iso": "UZB",
+   "latitude": "42,27492820920",
+   "longitude": "57,33863813510",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-1,76696016696",
+   "longitude": "36,50835572340",
+   "happinessRank": "Very High",
+   "happinessScore": 4
+ },
+ {
+   "countryName": "United Kingdom",
+   "iso": "GBR",
+   "latitude": "56,96086796320",
+   "longitude": "-3,48128495430",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Fiji",
+   "iso": "FJI",
+   "latitude": "-18,67197830050",
+   "longitude": "179,32978709200",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Papua New Guinea",
+   "iso": "PNG",
+   "latitude": "-3,85991838221",
+   "longitude": "151,76350647300",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Papua New Guinea",
+   "iso": "PNG",
+   "latitude": "0,14319560807",
+   "longitude": "143,48506566800",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Micronesia, Federated States of",
+   "iso": "FSM",
+   "latitude": "4,75096309661",
+   "longitude": "143,23972143300",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "High Seas",
+   "iso": "---",
+   "latitude": "3,02543512404",
+   "longitude": "141,54493891100",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "New Caledonia (to France)",
+   "iso": "NCL",
+   "latitude": "-24,63566529450",
+   "longitude": "164,33196159200",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "High Seas",
+   "iso": "---",
+   "latitude": "7,39090909105",
+   "longitude": "-168,03636363600",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "United States Minor Outlying Islands (to USA)",
+   "iso": "UMI",
+   "latitude": "8,25003707789",
+   "longitude": "-162,66405928700",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "High Seas",
+   "iso": "---",
+   "latitude": "7,43550188458",
+   "longitude": "-157,56313092200",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Kiribati",
+   "iso": "KIR",
+   "latitude": "5,92661899864",
+   "longitude": "-157,43937238800",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Palau",
+   "iso": "PLW",
+   "latitude": "2,97393637320",
+   "longitude": "131,81218341800",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Northern Mariana Islands (to USA)",
+   "iso": "MNP",
+   "latitude": "20,54422878490",
+   "longitude": "144,89473626400",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Northern Mariana Islands (to USA)",
+   "iso": "MNP",
+   "latitude": "17,31012527380",
+   "longitude": "145,84168040600",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Micronesia, Federated States of",
+   "iso": "FSM",
+   "latitude": "9,22783180366",
+   "longitude": "145,38441363100",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Marshall Islands",
+   "iso": "MHL",
+   "latitude": "11,49779065630",
+   "longitude": "162,24118291800",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Marshall Islands",
+   "iso": "MHL",
+   "latitude": "14,61765494130",
+   "longitude": "168,97906155300",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Marshall Islands",
+   "iso": "MHL",
+   "latitude": "12,23649967580",
+   "longitude": "170,13212640700",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Marshall Islands",
+   "iso": "MHL",
+   "latitude": "11,13706560700",
+   "longitude": "169,61189153500",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "United States Minor Outlying Islands (to USA)",
+   "iso": "UMI",
+   "latitude": "19,29444860460",
+   "longitude": "166,63109111800",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "New Caledonia (to France)",
+   "iso": "NCL",
+   "latitude": "-19,46734891470",
+   "longitude": "158,61318015700",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "New Caledonia (to France)",
+   "iso": "NCL",
+   "latitude": "-20,35773170890",
+   "longitude": "163,98951469500",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Fiji",
+   "iso": "FJI",
+   "latitude": "-19,12520324270",
+   "longitude": "177,96792746500",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Fiji",
+   "iso": "FJI",
+   "latitude": "-18,00936448950",
+   "longitude": "179,30173069300",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Fiji",
+   "iso": "FJI",
+   "latitude": "-17,25687868700",
+   "longitude": "178,49218455100",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Fiji",
+   "iso": "FJI",
+   "latitude": "-17,12698205130",
+   "longitude": "179,12738766600",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Fiji",
+   "iso": "FJI",
+   "latitude": "-16,85623404190",
+   "longitude": "-27,51357516010",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Fiji",
+   "iso": "FJI",
+   "latitude": "-17,07323943070",
+   "longitude": "-179,02427931700",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Fiji",
+   "iso": "FJI",
+   "latitude": "-16,08052494060",
+   "longitude": "-179,17514548300",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Tonga",
+   "iso": "TON",
+   "latitude": "-22,33948001490",
+   "longitude": "-176,20773186900",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Tonga",
+   "iso": "TON",
+   "latitude": "-18,84894735250",
+   "longitude": "-174,00352601600",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "United States Minor Outlying Islands (to USA)",
+   "iso": "UMI",
+   "latitude": "0,50278574314",
+   "longitude": "-176,54866970500",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "United States Minor Outlying Islands (to USA)",
+   "iso": "UMI",
+   "latitude": "16,74233649470",
+   "longitude": "-169,51817931100",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "United States Minor Outlying Islands (to USA)",
+   "iso": "UMI",
+   "latitude": "5,87893029193",
+   "longitude": "-162,07426954700",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "United States Minor Outlying Islands (to USA)",
+   "iso": "UMI",
+   "latitude": "-0,37401292689",
+   "longitude": "-159,99807600200",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Cook Islands",
+   "iso": "COK",
+   "latitude": "-13,24376572050",
+   "longitude": "-163,15821718800",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Kiribati",
+   "iso": "KIR",
+   "latitude": "-3,59543257745",
+   "longitude": "-174,12265859600",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Kiribati",
+   "iso": "KIR",
+   "latitude": "-3,41201836352",
+   "longitude": "-170,89825420300",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Kiribati",
+   "iso": "KIR",
+   "latitude": "1,86104954740",
+   "longitude": "-157,36030762700",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Kiribati",
+   "iso": "KIR",
+   "latitude": "-9,95747572343",
+   "longitude": "-150,20901421300",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Kiribati",
+   "iso": "KIR",
+   "latitude": "-4,01300506819",
+   "longitude": "-154,92648737200",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Kiribati",
+   "iso": "KIR",
+   "latitude": "-5,64470614831",
+   "longitude": "-155,88967773100",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "10,30502471360",
+   "longitude": "-109,21679683600",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-27,88947476590",
+   "longitude": "-143,49673479400",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-15,24208665590",
+   "longitude": "-147,71515124100",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-23,10415062080",
+   "longitude": "-134,96895944700",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-7,91507135628",
+   "longitude": "-140,57264741900",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-9,22209452290",
+   "longitude": "-139,83556615300",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Cook Islands",
+   "iso": "COK",
+   "latitude": "-19,81195292110",
+   "longitude": "-158,28868190600",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Fiji",
+   "iso": "FJI",
+   "latitude": "-18,01215969530",
+   "longitude": "-178,44873141600",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "USA",
+   "iso": "USA",
+   "latitude": "71,26045782090",
+   "longitude": "-154,66558109800",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-23,34432060690",
+   "longitude": "-134,47953242800",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "New Caledonia (to France)",
+   "iso": "NCL",
+   "latitude": "-22,62455225890",
+   "longitude": "166,72230419300",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "New Caledonia (to France)",
+   "iso": "NCL",
+   "latitude": "-22,69692910330",
+   "longitude": "167,54845899100",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "New Caledonia (to France)",
+   "iso": "NCL",
+   "latitude": "-21,73860688340",
+   "longitude": "166,59602403600",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "American Samoa",
+   "iso": "ASM",
+   "latitude": "-14,24739268530",
+   "longitude": "-169,45717337000",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-15,87635435310",
+   "longitude": "-145,14990086000",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-15,00828644810",
+   "longitude": "-148,17241545200",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Kiribati",
+   "iso": "KIR",
+   "latitude": "4,68417085823",
+   "longitude": "-160,38008803100",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "New Caledonia (to France)",
+   "iso": "NCL",
+   "latitude": "-21,08919826320",
+   "longitude": "164,65887086700",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Vanuatu",
+   "iso": "VUT",
+   "latitude": "-13,84472355250",
+   "longitude": "167,47234014600",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Tokelau (to New Zealand)",
+   "iso": "TKL",
+   "latitude": "-8,89279314589",
+   "longitude": "-172,12608758200",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Solomon Islands",
+   "iso": "SLB",
+   "latitude": "-7,98105129301",
+   "longitude": "157,07161012500",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "American Samoa",
+   "iso": "ASM",
+   "latitude": "-14,54209673660",
+   "longitude": "-168,14754990400",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Papua New Guinea",
+   "iso": "PNG",
+   "latitude": "-1,64931301387",
+   "longitude": "150,67408837700",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Wallis and Futuna Islands (to France)",
+   "iso": "WLF",
+   "latitude": "-14,34124387220",
+   "longitude": "-178,03731750600",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "American Samoa",
+   "iso": "ASM",
+   "latitude": "-11,05512691160",
+   "longitude": "-171,07819999100",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-23,15654810480",
+   "longitude": "-137,13066208700",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-16,15511749100",
+   "longitude": "-146,35399070700",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-16,81957389700",
+   "longitude": "-151,43413731500",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "French Polynesia",
+   "iso": "PYF",
+   "latitude": "-21,84414239590",
+   "longitude": "-138,90827458700",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kazakhstan",
+   "iso": "KAZ",
+   "latitude": "51,42825261490",
+   "longitude": "62,64496839770",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Myanmar",
+   "iso": "MMR",
+   "latitude": "20,24541769360",
+   "longitude": "92,73694107270",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-28,62515311050",
+   "longitude": "24,82527264710",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-28,86633663550",
+   "longitude": "24,81249244310",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-22,22260627810",
+   "longitude": "29,31011560330",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-25,56264776830",
+   "longitude": "25,71019927340",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Norway",
+   "iso": "NOR",
+   "latitude": "60,07695384960",
+   "longitude": "10,16901440170",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Norway",
+   "iso": "NOR",
+   "latitude": "70,15554173050",
+   "longitude": "29,93961050620",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Fiji",
+   "iso": "FJI",
+   "latitude": "-16,09052946110",
+   "longitude": "-179,21911956600",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Taiwan, China",
+   "iso": "TWN",
+   "latitude": "22,88487580510",
+   "longitude": "120,19541817200",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Norway",
+   "iso": "NOR",
+   "latitude": "68,81948899870",
+   "longitude": "24,81684893460",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Norway",
+   "iso": "NOR",
+   "latitude": "63,98931649990",
+   "longitude": "12,50249378770",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-30,58826736990",
+   "longitude": "25,87328161930",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-27,80054599310",
+   "longitude": "32,49163524650",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-29,32586435350",
+   "longitude": "30,30250928860",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "South Africa",
+   "iso": "ZAF",
+   "latitude": "-32,63183170380",
+   "longitude": "27,10622068490",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Vanuatu",
+   "iso": "VUT",
+   "latitude": "-16,89875016980",
+   "longitude": "168,55898547700",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Indonesia",
+   "iso": "IDN",
+   "latitude": "-1,97458031178",
+   "longitude": "120,59615163200",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Indonesia",
+   "iso": "IDN",
+   "latitude": "-0,78475913684",
+   "longitude": "122,65797223100",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Indonesia",
+   "iso": "IDN",
+   "latitude": "-1,34796980943",
+   "longitude": "123,35850062200",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Indonesia",
+   "iso": "IDN",
+   "latitude": "-8,35126996710",
+   "longitude": "120,76078583600",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Palau",
+   "iso": "PLW",
+   "latitude": "7,06471611414",
+   "longitude": "134,28339165200",
+   "happinessRank": "Low",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Australia",
+   "iso": "AUS",
+   "latitude": "-30,88607578840",
+   "longitude": "136,82898418700",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-0,52479392054",
+   "longitude": "37,99665159580",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Kenya",
+   "iso": "KEN",
+   "latitude": "-1,29930773946",
+   "longitude": "38,16475279260",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Netherlands",
+   "iso": "NLD",
+   "latitude": "52,02788138200",
+   "longitude": "5,86992151572",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Netherlands",
+   "iso": "NLD",
+   "latitude": "52,38110819220",
+   "longitude": "5,66355623858",
+   "happinessRank": "High",
+   "happinessScore": 3
+ },
+ {
+   "countryName": "Mozambique",
+   "iso": "MOZ",
+   "latitude": "-18,73583283510",
+   "longitude": "32,93288374130",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ },
+ {
+   "countryName": "Mozambique",
+   "iso": "MOZ",
+   "latitude": "-18,61539383890",
+   "longitude": "35,03807849390",
+   "happinessRank": "Medium",
+   "happinessScore": 2
+ },
+ {
+   "countryName": "Mozambique",
+   "iso": "MOZ",
+   "latitude": "-18,03064884380",
+   "longitude": "33,03677266860",
+   "happinessRank": "Low",
+   "happinessScore": 1
+ }
+]
