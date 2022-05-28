@@ -1,6 +1,4 @@
 {
-    "type": "FeatureCollection",                                                                            
- "wildfire": [
         {
             "lat": "27.5253",
             "long": "-81.9245",
@@ -1592,7 +1590,7 @@
             "country": "usa",
             "category": "wildfire1",
             "year": "2021",
-            "date": "2021-10-14"
+            "date"<: "2021-10-14"
         },
         {
             "lat": "43.3265",
@@ -17571,5 +17569,4 @@
             "type": "D",
             "undefined": "0"
         }
-    ]
-}
+        }
