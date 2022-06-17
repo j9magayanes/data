@@ -49,8 +49,8 @@
             "longitude": "-71.4768",
             "happinessScore": "380.1",
             "country": "Chile",
-            "category": "wildfire1",
+            "category": "wildfire",
             "year": "2021",
             "date": "2021-16-01"
-        },
+        }
      ]
