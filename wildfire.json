@@ -2,7 +2,7 @@
             "latitude": "27.5253",
             "longitude": "-81.9245",
             "happinessScore": "303.4",
-            "country": "United States of America",
+            "countryName": "United States of America",
             "category": "wildfire",
             "year": "2021",
             "date": "2021-10-14"
@@ -29,7 +29,7 @@
             "latitude": "-20.74341",
             "longitude": "140.07527",
             "happinessScore": "335.42",
-            "country": "Australia",
+            "countryName": "Australia",
             "category": "wildfire",
             "year": "2021",
             "date": "2021-12-10"
@@ -39,7 +39,7 @@
             "latitude": "36.5628",
             "longitude": "4.4567",
             "happinessScore": "317",
-            "country": "Algeria",
+            "countryName": "Algeria",
             "category": "wildfire",
             "year": "2021",
             "date": "2021-16-01"
@@ -48,7 +48,7 @@
             "latitude": "-33.1382",
             "longitude": "-71.4768",
             "happinessScore": "380.1",
-            "country": "Chile",
+            "countryName": "Chile",
             "category": "wildfire",
             "year": "2021",
             "date": "2021-16-01"
