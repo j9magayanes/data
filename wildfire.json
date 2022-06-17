@@ -3,6 +3,7 @@
             "longitude": "-81.9245",
             "happinessScore": "303.4",
             "countryName": "United States of America",
+            "iso": "US",
             "category": "wildfire",
             "year": "2021",
             "date": "2021-10-14"
@@ -11,6 +12,7 @@
             "latitude": "37.0418",
             "longitude": "31.3954",
             "happinessScore": "318.2",
+             "iso": "TU",
             "countryName": "Turkey",
             "category": "wildfire",
             "year": "2021",
@@ -19,6 +21,7 @@
             
             "happinessScore": "306.5",
             "latitude": "40.46",
+            "iso": "SP",
             "longitude": "3.74",
             "country": "Spain",
             "category": "wildfire",
@@ -30,6 +33,7 @@
             "longitude": "140.07527",
             "happinessScore": "335.42",
             "countryName": "Australia",
+            "iso": "AU",
             "category": "wildfire",
             "year": "2021",
             "date": "2021-12-10"
@@ -40,6 +44,7 @@
             "longitude": "4.4567",
             "happinessScore": "317",
             "countryName": "Algeria",
+            "iso": "AL",
             "category": "wildfire",
             "year": "2021",
             "date": "2021-16-01"
@@ -48,6 +53,7 @@
             "latitude": "-33.1382",
             "longitude": "-71.4768",
             "happinessScore": "380.1",
+            "iso": "CH",
             "countryName": "Chile",
             "category": "wildfire",
             "year": "2021",
